@@ -43,6 +43,8 @@ Pessoas Desenvolvedoras do Projeto;​
 Licença.​
 
 # Linguagem Markdown
+* [Voltar ao índice](#índice)
+
 Ao usar a extensão MD (Markdown), significa que a escrita será simples e dinâminca devido a esse tipo de extensão.
 
 
