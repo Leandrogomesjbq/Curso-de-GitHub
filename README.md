@@ -10,6 +10,31 @@ Todo projeto deve começar com a criação de um Readme.md
 No readme você deve escrever o passo a passo do projeto. 
 É uma especie de guia para todos que desejarem compartilhar com seus projetos.
 
+É possível notar que os dois não possuem um padrão exatamente igual, cada um possui sua identidade. Porém, conseguimos ver alguns pontos que podemos destacar que são legais de se ter no seu README, como:​
+
+​Título e Imagem de capa;
+
+Badges;​
+
+Índice;​
+
+Descrição do Projeto;​
+
+Status do Projeto;​
+
+Funcionalidades e Demonstração da Aplicação;​
+
+Acesso ao Projeto;​
+
+Tecnologias utilizadas;​
+
+Pessoas Contribuidoras;​
+
+Pessoas Desenvolvedoras do Projeto;​
+
+Licença.​
+
+# Linguagem Markdown
 Ao usar a extensão MD (Markdown), significa que a escrita será simples e dinâminca devido a esse tipo de extensão.
 
 
